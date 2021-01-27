@@ -1,0 +1,7 @@
+print("What is your Name:")
+z=input()
+print("How many brothers do you have")
+a=int(input())
+print("How many sisters do you have")
+b=int(input())
+print(str(z)+" has "+str(a)+" brothers and "+str(b)+" sisters total "+str(a+b)+" siblings")
